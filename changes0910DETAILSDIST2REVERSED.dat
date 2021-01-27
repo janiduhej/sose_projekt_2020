@@ -1,0 +1,924 @@
+http://purl.obolibrary.org/obo/NCI#_C12853 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12233 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_22934 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_70929 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32698 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12431 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C32628 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12692 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49311 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C62484 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C53175 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12593 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70849 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_4729 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33199 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12971 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12417 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_75150 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12858 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_46591 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_51773 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_59789 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12784 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C73849 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33162 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12777 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33049 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33881 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C17430 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33261 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52814 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12436 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12813 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71647 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_76499 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C2283 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12814 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12256 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13018 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_51003 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_54541 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12697 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32765 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C71762 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70879 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_16027 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32317 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_73023 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C17522 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12796 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C32801 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_18914 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32244 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17343 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12554 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33446 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12374 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33266 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12480 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33724 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_46588 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32900 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25264 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32677 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32057 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C52745 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12367 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13234 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12719 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12410 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32101 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C43362 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33809 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32608 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12671 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32156 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12403 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C28256 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/UWDA_70828 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32974 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32083 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33842 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52771 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12393 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_75438 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12770 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_9692 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12771 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12837 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33729 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32905 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32076 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12323 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12386 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12763 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_19081 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_70773 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32274 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25276 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12936 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12316 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12379 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12756 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_75178 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C49192 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12800 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12929 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12683 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C45714 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C16778 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13191 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_55102 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13258 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52812 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12434 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49221 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12229 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C17458 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12669 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C38041 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C61600 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32286 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12910 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13735 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12588 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25243 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C73238 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12589 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_59662 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32099 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12346 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32414 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12830 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12519 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33722 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17062 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12339 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C67387 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12372 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33884 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33021 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16492 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33022 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12570 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_9404 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12259 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_9492 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33462 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32055 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76545 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12699 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12742 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C52809 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16393 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_70752 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_74029 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12809 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32253 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12500 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C52941 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71620 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_70925 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C69313 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12736 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33114 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12728 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12482 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12729 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33040 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32239 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12860 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17338 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32903 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12413 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C73851 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed
+http://purl.obolibrary.org/obo/UWDA_55070 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32159 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12469 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C45874 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C62404 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_18649 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C33467 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33224 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76513 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13157 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33287 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32258 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12505 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12568 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33771 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32078 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33151 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33837 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71445 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12388 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52810 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C20694 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_12516 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C48687 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13076 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33936 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12424 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12802 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12865 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_76488 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C25520 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_63814 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12685 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C540 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32996 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12686 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_71500 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32926 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32240 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12678 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12344 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12722 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32232 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32853 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32233 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C48797 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32053 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25389 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12715 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_7160 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C49323 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12462 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13150 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_50954 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_7146 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12275 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_53667 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33519 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12381 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C13143 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C65166 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33031 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_3800 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C32622 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49328 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_55109 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25444 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33372 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13062 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33816 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32678 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33570 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_55099 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12745 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_30314 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_71622 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_70861 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12404 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_50723 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_77229 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12287 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C21020 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/UWDA_71876 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33483 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C32348 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32454 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_15054 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12764 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12478 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70774 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12584 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C568 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13103 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13166 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/UWDA_59788 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_72215 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33160 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71454 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_30319 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_55110 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25225 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12508 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12262 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32392 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12948 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C17491 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12328 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C34021 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32770 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C62432 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76497 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_76541 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C38662 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12427 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33010 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33073 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12805 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_14334 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C49241 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C14070 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12731 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52552 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16448 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C778 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_16018 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32657 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12904 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76527 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12347 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25622 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12724 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12787 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12725 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32235 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32298 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C22722 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C12717 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70896 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32334 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49326 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52799 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32712 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C62356 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12464 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13226 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12465 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C2286 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_46616 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C49319 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12391 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12743 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_9602 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C34216 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13325 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C53146 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_74605 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_14471 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13071 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12556 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13318 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C2315 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12557 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12314 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33889 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12377 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C34070 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33932 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33269 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12420 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_71874 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13002 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32991 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12307 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12681 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12928 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12308 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C66153 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12854 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12234 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13164 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12674 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33739 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12667 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12710 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_75572 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32221 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_7490 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12594 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33038 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_14919 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_51227 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33790 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12693 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32761 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32141 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/UWDA_15713 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C812 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_55112 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32197 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32306 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32680 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12679 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33508 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_4749 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C49052 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12499 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32127 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12437 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13304 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted
+http://purl.obolibrary.org/obo/UWDA_76786 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12257 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33769 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70930 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12363 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32054 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49757 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17219 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32226 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13051 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32666 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33428 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12290 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33868 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32047 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12797 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12840 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71611 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13044 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12220 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33732 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70850 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32971 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70916 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12907 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C16861 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33725 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32901 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33788 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70909 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_17633 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C16748 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33718 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70899 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12752 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33267 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33024 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32200 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13000 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_55414 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13261 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12746 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12503 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_4742 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33384 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C53075 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13360 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13074 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12999 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52758 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32113 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12423 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33935 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_63812 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C27958 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12416 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12856 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C64193 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12299 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12900 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16642 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12409 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12849 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32268 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_76515 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33161 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C60642 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed
+http://purl.obolibrary.org/obo/NCI#_C12713 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12776 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_71653 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_66643 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33326 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32899 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76435 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71646 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32943 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12695 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C616 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12696 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13277 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_59502 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C33003 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32199 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32242 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13197 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25399 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12373 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12439 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32236 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32056 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12718 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12472 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33301 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_13423 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32540 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49594 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12292 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12670 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70926 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12799 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13046 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70852 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12285 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33529 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32705 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C25355 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33727 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13351 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32346 0 CLASS_CHANGE DETAILS:  Modified Superclass changed Added
+http://purl.obolibrary.org/obo/NCI#_C12656 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33548 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_12846 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32959 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C26413 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C33826 1 CLASS_NOCHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C566 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33581 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12755 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C73468 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13337 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12748 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C32192 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C36287 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12612 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32742 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C63705 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13190 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33504 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C61122 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71446 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13256 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12432 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32123 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C61563 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_55101 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32735 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_15621 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_15398 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12711 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17897 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12425 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32042 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33244 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12792 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12419 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12793 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16447 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_16016 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12345 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C22522 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C16373 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13275 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12785 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33343 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33720 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33783 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25235 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33721 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C38639 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70905 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12716 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12884 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33156 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32395 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76551 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33820 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33200 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C37914 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33020 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13330 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33149 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_71649 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12258 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49317 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25353 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12808 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_14337 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12382 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C17524 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32245 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52933 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12555 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13070 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C66852 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C539 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C16649 1 CLASS_NOCHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C12727 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/UWDA_71872 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C49783 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13309 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12654 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70664 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12412 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13056 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32337 0 CLASS_CHANGE DETAILS:  Deleted
+http://purl.obolibrary.org/obo/UWDA_76827 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_44377 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32777 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C16612 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32201 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13049 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_68646 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52772 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12394 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33286 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12838 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12387 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33216 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12585 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33763 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33829 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C569 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33209 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32888 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33755 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12801 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13005 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12684 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32752 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32132 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12857 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33000 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_70867 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13192 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C32305 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_4747 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12615 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12783 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32918 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C16258 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71481 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_74268 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12714 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12428 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12597 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33426 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33489 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12329 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12769 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12707 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32837 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C2282 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33730 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32658 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32478 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33723 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C28170 0 CLASS_CHANGE DETAILS:  Deleted
+http://purl.obolibrary.org/obo/NCI#_C12380 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_77762 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C20932 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32514 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32577 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_7409 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12887 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_71324 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C62642 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12311 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_37377 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_55108 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C48943 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33643 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_30320 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C17335 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76546 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33815 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C26465 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12366 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_55097 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32497 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12744 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32874 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12230 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C548 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C69314 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_59056 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13252 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33357 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12737 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12843 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76466 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12909 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70853 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12286 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33178 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12664 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32174 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12421 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_15060 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_71875 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33728 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33108 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32967 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/UWDA_58486 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C25726 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12700 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12829 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_46562 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33475 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C567 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13102 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33295 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12341 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12407 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_9615 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32538 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_7410 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C26055 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12682 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33574 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_30317 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13264 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_59159 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C17292 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12506 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed Annotation Changed
+http://purl.obolibrary.org/obo/NCI#_C48695 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12569 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12260 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33152 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12389 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32391 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_50932 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12767 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12433 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C32898 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32490 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12426 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33318 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12866 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76489 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12246 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_70876 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12859 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C60831 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C69300 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12903 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17512 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12786 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33615 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33678 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13305 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C32234 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16571 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12779 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12470 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12822 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70832 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C2292 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33157 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33534 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12709 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12400 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C34402 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_59160 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C43595 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12841 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13045 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_54437 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_76816 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C17245 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13323 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted
+http://purl.obolibrary.org/obo/NCI#_C33894 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13144 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12320 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33895 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12760 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_50981 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12753 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71873 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C3002 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13063 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13001 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25203 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25266 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32679 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12306 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12747 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12295 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32609 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12919 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C43364 0 CLASS_CHANGE DETAILS:  Deleted
+http://purl.obolibrary.org/obo/NCI#_C12673 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12405 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12468 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33051 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C33737 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_54819 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12666 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33558 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32529 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12592 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32906 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32969 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33150 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_66328 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12702 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13280 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12765 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12586 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12343 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13273 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49194 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12578 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C49571 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33136 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_25046 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32375 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_50941 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12399 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C49018 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_55111 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32573 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25226 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12883 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33712 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70830 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12263 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_19825 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C33507 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13259 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12435 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33433 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32052 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33254 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52560 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12429 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12806 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13050 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33867 1 CLASS_NOCHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C33067 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32243 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33731 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12905 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C16581 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_71493 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12789 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12274 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33103 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32720 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C16747 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_70835 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13227 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33023 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_70827 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C13153 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32082 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12392 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/UWDA_75437 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32769 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_5018 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_9666 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12502 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C53147 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12385 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32868 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13010 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_44331 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32068 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12998 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12378 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33556 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_44332 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12422 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13003 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52749 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C30099 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12414 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C37954 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed
+http://purl.obolibrary.org/obo/UWDA_15388 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12415 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C28645 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12855 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13059 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12298 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C12408 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12782 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_59104 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_71619 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C13158 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32087 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12774 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12712 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12775 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13356 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33487 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12705 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12768 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C13283 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12811 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C49313 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33523 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13276 0 CLASS_CHANGE DETAILS:  Modified Annotation Changed Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33450 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32755 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_77760 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_75592 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C32241 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32928 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C26470 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32682 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12438 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/UWDA_46417 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C68804 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13232 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C13052 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C22714 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C32668 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32048 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_76538 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12358 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12735 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12401 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12798 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_50720 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_71612 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C473 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_51302 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C12390 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33282 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_50956 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C33726 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C32902 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C17066 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12277 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C572 1 CLASS_NOCHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/NCI#_C12761 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C30140 0 CLASS_CHANGE DETAILS:  Renamed and Modified Annotation Changed Deleted Renamed Added
+http://purl.obolibrary.org/obo/UWDA_12225 0 CLASS_CHANGE DETAILS:  Modified Superclass changed
+http://purl.obolibrary.org/obo/UWDA_71704 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C12313 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C565 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C52754 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12376 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C33888 0 CLASS_CHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/UWDA_49893 0 CLASS_CHANGE DETAILS:  Modified Deleted
+http://purl.obolibrary.org/obo/NCI#_C33645 1 CLASS_NOCHANGE DETAILS:  Modified Annotation Changed Added
+http://purl.obolibrary.org/obo/NCI#_C12754 1 CLASS_NOCHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C32884 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C25292 0 CLASS_CHANGE DETAILS:  Modified Deleted Added
+http://purl.obolibrary.org/obo/NCI#_C54024 1 CLASS_NOCHANGE DETAILS:  Modified Added
+http://purl.obolibrary.org/obo/NCI#_C12395 1 CLASS_NOCHANGE DETAILS:  Modified Added
